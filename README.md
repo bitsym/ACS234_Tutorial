@@ -9,6 +9,6 @@ You can also get the materials through a google shared folder:
 
 Email: 
 
-Yihui Tao: ytao9@sheffield.ac.uk
+**Yihui Tao: ytao9@sheffield.ac.uk**
 
-Yiming Sun: ysun67@sheffield.ac.uk
+**Yiming Sun: ysun67@sheffield.ac.uk**
